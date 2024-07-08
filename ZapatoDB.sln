@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapatoDB", "ZapatoDB\ZapatoDB.csproj", "{BAABB2C7-B959-452C-B59F-57DF0A2FEA78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAABB2C7-B959-452C-B59F-57DF0A2FEA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAABB2C7-B959-452C-B59F-57DF0A2FEA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAABB2C7-B959-452C-B59F-57DF0A2FEA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAABB2C7-B959-452C-B59F-57DF0A2FEA78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721E8486-8C74-4167-BE49-846753D62C13}
+	EndGlobalSection
+EndGlobal
